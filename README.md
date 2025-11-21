@@ -2,6 +2,8 @@
 
 A modern, interactive horse racing simulation game built with Vue 3. Experience the thrill of horse racing with realistic animations, live standings, and comprehensive race management features.
 
+**🎮 [Live Demo](https://horseracing-4mn.pages.dev/)** - Try it now!
+
 ![Vue 3](https://img.shields.io/badge/Vue-3.x-brightgreen)
 ![Vite](https://img.shields.io/badge/Vite-5.x-646CFF)
 ![Cypress](https://img.shields.io/badge/Cypress-13.x-17202C)
